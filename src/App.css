@@ -18,9 +18,10 @@ body{
   margin-bottom: 20px;
   border:solid black;
 }
-.name{
-  word-wrap: unset;
+.card div:hover{
+  background-color: rgb(233, 230, 230);
 }
+
 .card div{
   display: flex;
   padding-left: 80px;

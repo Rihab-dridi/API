@@ -3,3 +3,4 @@
 [1231/131225.542:ERROR:exception_snapshot_win.cc(99)] thread ID 14516 not found in process
 [1231/131225.183:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
 [1231/131225.542:ERROR:exception_snapshot_win.cc(99)] thread ID 7392 not found in process
+[0102/235223.430:ERROR:directory_reader_win.cc(43)] FindFirstFile: Le chemin d’accès spécifié est introuvable. (0x3)
